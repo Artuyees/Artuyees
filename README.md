@@ -3,7 +3,7 @@
 - 👀 I’m interested in front-end tech and python.
 - 🌱 I’m currently learning React and Svelte.
 - 📫 How to reach me: 
-- [Mail](artuyees@gmail.com) 
+- [Mail](mailto:artuyees@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/artur-kuciński-5151a222b/)
   
 
