@@ -17,10 +17,3 @@ Tech i'm learning:
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
-
-
-![image](https://github-readme-stats.vercel.app/api?username=Artuyees)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=Artuyees)
-
