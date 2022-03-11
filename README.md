@@ -1,7 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Artuyees&color=363636)
 # 👋 Welcome
-- 👀 I’m interested in front-end tech and python.
-- 📫 How to reach me: 
 - [Mail](mailto:artuyees@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/artur-kuciński-5151a222b/)
   
