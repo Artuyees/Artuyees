@@ -2,7 +2,7 @@
 - [LinkedIn](https://www.linkedin.com/in/artur-kuciński-5151a222b/)
   
 
-- Tech I'm learning
+Tech I'm learning
 
 - ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![image](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
